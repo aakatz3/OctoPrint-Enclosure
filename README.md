@@ -1,8 +1,10 @@
 Find the plugin useful? Buy me a coffee
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/VitorHenrique/2)
 
-# THIS PLUGIN IS DEPRACATED! 
-I'm moving away from it, and when ready the replacement plugin would be here: https://github.com/vitormhenrique/OctoPrint-Enclosure-V2
+# I am personally working on making this functional again. My time is limited, help is appreciated.
+
+# ~~THIS PLUGIN IS DEPRACATED!~~
+~~I'm moving away from it, and when ready the replacement plugin would be here: https://github.com/vitormhenrique/OctoPrint-Enclosure-V2~~
 
 # Before opening an issue...
 
